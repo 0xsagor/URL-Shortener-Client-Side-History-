@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eef1f5;
+}
+
+.app {
+  width: 420px;
+  margin: 80px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+li {
+  margin-top: 8px;
+  font-size: 14px;
+}
