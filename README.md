@@ -1,2 +1,14 @@
-# URL-Shortener-Client-Side-History-
-Long URL → short link (client-side simulation) + history
+# URL Shortener (Client-Side)
+
+Simple URL shortener simulation using LocalStorage.
+
+## Features
+- Generate short links
+- History saved locally
+- Clean UI
+
+## Run
+Open `index.html` in browser.
+
+## Purpose
+System-style utility project for GitHub portfolio.
